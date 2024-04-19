@@ -11,7 +11,6 @@ int D2=9;
 int D3=8;
 int D4=6;
 
-
 void setup() {
   // put your setup code here, to run once:
   pinMode(a,OUTPUT);
